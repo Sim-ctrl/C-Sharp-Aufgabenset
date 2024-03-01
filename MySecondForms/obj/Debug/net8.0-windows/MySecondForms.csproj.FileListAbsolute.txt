@@ -1,0 +1,16 @@
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\bin\Debug\net8.0-windows\MySecondForms.exe
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\bin\Debug\net8.0-windows\MySecondForms.deps.json
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\bin\Debug\net8.0-windows\MySecondForms.runtimeconfig.json
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\bin\Debug\net8.0-windows\MySecondForms.dll
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\bin\Debug\net8.0-windows\MySecondForms.pdb
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.Form1.resources
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.csproj.GenerateResource.cache
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.AssemblyInfoInputs.cache
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.AssemblyInfo.cs
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.csproj.CoreCompileInputs.cache
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.dll
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\refint\MySecondForms.dll
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.pdb
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\MySecondForms.genruntimeconfig.cache
+C:\Users\Azubi\source\repos\HelloWorld\MySecondForms\obj\Debug\net8.0-windows\ref\MySecondForms.dll
